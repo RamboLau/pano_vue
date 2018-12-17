@@ -1,6 +1,6 @@
 # pano_vue
 
-krpano结合vue上手案例
+krpano结合vue2.0上手案例(vue-cli 2.x)
 
 ## Build Setup
 
